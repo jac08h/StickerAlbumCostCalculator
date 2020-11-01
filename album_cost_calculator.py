@@ -1,5 +1,5 @@
-from sticker_factory import StickerFactory
-from album import Album
+from objects.sticker_factory import StickerFactory
+from objects.album import Album
 from decimal import Decimal
 import argparse
 

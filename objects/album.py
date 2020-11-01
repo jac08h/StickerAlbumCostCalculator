@@ -1,4 +1,4 @@
-from sticker_factory import StickerFactory
+from objects.sticker_factory import StickerFactory
 from decimal import Decimal
 
 
